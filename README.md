@@ -1,9 +1,8 @@
 ## Hi there!
 
-I'm Ellie (pronouns they/them). I enjoy programming as a hobby, with a particular interest in
-programming language development as of late - check out [gelix](https://gelix.angm.xyz)!.
+I'm Ellie (pronouns she/they). I enjoy programming as a hobby.
 
-Most of my projects are primarily hosted on my [GitLab](https://git.angm.xyz/ellie),
+Most of my projects are primarily hosted on my [Gitea](https://git.angm.xyz/ellie),
 only finished projects tend to be mirrored here on GitHub.
 
 The languages I would consider myself proficient in are Rust, Kotlin and Java, with
