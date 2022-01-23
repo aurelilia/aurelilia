@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Ellie (pronouns she/they). I enjoy programming as a hobby.
+I'm Ellie Leela (pronouns she/they). I enjoy programming as a hobby.
 
 Most of my projects are primarily hosted on my [Gitea](https://git.angm.xyz/ellie),
 only finished projects tend to be mirrored here on GitHub.
