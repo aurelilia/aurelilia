@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm Ellie Leela (pronouns she/they). I enjoy programming as a hobby,
+I'm Ellie Leela and also go by aurelia (pronouns she/they). I enjoy programming as a hobby,
 with a particular interest in anything low-level - from emulators over
 programming languages to operating systems.  
 Lately, I've mainly been working on [GameGirl](https://github.com/anellie/gamegirl), a GB and GBA emulator.
