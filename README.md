@@ -15,4 +15,4 @@ intermediate-level skills in Python/Django and Webdev with HTML, SASS and Vue.js
 
 My profile picture is by [koyoriin](https://twitter.com/koyoriin). If you are them and wish for me to stop using it, please contact me.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anellie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelilia)](https://github.com/anuraghazra/github-readme-stats)
