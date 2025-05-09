@@ -11,8 +11,8 @@ with a DS core currently underway.
 Most of my projects are primarily hosted on my [Forgejo](https://forge.catin.eu/leela),
 though contributions on GitHub are welcome and appreciated.
 
-The languages I would consider myself proficient in are Rust, Kotlin and (sadly) Java, with
-intermediate-level skills in Python/Django and Webdev with HTML, SASS and Vue.js.
+The languages I would consider myself proficient in are Rust, Kotlin and Java.  
+Additionally, I get to wrangle Python at `{dayjob}`.
 
 My profile picture is by [koyoriin](https://twitter.com/koyoriin). If you are them and wish for me to stop using it, please contact me.
 
